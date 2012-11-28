@@ -4,7 +4,6 @@ require 'time'
 require 'bigdecimal'
 require 'bigdecimal/util'
 require 'ostruct'
-require 'backports'
 
 # Base module which adds Attribute API to your classes
 module Virtus
